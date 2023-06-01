@@ -1,0 +1,2 @@
+Esto es el texto de un archivo creado con python
+Esto es otra linea del archivoEsto es el texto de un archivo creado con python

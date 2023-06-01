@@ -1,0 +1,20 @@
+sobre las imágenes en Gimp, el propósito es comprobar cuál es la reacción entre estas
+
+si cojo la vertical, ver la reacción con cara1 en líneas verticales.
+
+al atravesar la imagen vertical sobre una linea vertical de la primera imagen Cara, se verá el resultado de un marcador
+
+Al darse esta situación, el sistema verá qué debe hacer ante esta
+
+-------------------
+
+Se trata de ir moviendo, por ejemplo, la imagen Vertical, px a px, hasta que vaya encontrando coincidencias consigo misma
+
+El programa, tras haber "rastreado" todos los píxeles en Vertical, horizontal, etc, a la larga, será capaz de poder identificar 
+y detectar caras por sí mismo.
+
+-------------------
+
+DUDAS:
+
+- superx, supery
